@@ -4,19 +4,19 @@
   "title": "Identify connected model",
   "titleGenerationStatus": "success",
   "createdAt": 1780835194176,
-  "updatedAt": 1780835533177,
-  "lastResponseAt": 1780835533177,
+  "updatedAt": 1780835753492,
+  "lastResponseAt": 1780835753492,
   "sessionId": "53a7244a-38a3-4bdd-a7ed-ab381f8cb45c",
   "providerState": {
     "providerSessionId": "53a7244a-38a3-4bdd-a7ed-ab381f8cb45c"
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 104,
+    "inputTokens": 144,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 22912,
+    "cacheReadInputTokens": 24192,
     "contextWindow": 200000,
-    "contextTokens": 23016,
+    "contextTokens": 24336,
     "percentage": 12,
     "contextWindowIsAuthoritative": true
   }
