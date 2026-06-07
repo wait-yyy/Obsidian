@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780834740924-ag6cxb2i5",
+  "providerId": "claude",
+  "title": "how are you",
+  "titleGenerationStatus": "pending",
+  "createdAt": 1780834740926,
+  "updatedAt": 1780834746598,
+  "lastResponseAt": 1780834746598,
+  "sessionId": "3412fe98-c3ff-4fe6-802f-f66997c8f1ed",
+  "providerState": {
+    "providerSessionId": "3412fe98-c3ff-4fe6-802f-f66997c8f1ed"
+  },
+  "currentNote": "考研/408/操作系统/第二章：进程与线程/2.1 进程与线程/思考.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 19234,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 19234,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}
